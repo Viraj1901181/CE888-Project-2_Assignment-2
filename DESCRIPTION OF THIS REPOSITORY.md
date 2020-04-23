@@ -1,4 +1,4 @@
-# CE888Assignment1
+# CE888 Project2_Assignment2
 
 This contains files, python codes and reports of project proposal of CE888 Project 2. 
 
